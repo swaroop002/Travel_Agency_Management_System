@@ -1,0 +1,43 @@
+.col-4 {
+       border-radius: 15px;
+       border: 2px solid rgb(0, 0, 0);
+       box-shadow: white 2px 6px 12px;
+       padding: 2%;
+       margin: 1%;
+       margin-left: 5%;
+       margin-top: 2%;
+       height: 70%;
+       color: rgb(255, 255, 255);
+       background-color : rgba(53, 54, 54, 0.421);
+}
+
+ul li a:hover {
+    transition: 0.5s;
+    color: black;
+}
+ul li a {
+    font-weight: 600;
+    color: #fff;
+    display: block;
+    width: 100%;
+    line-height: 60px;
+    text-decoration:none;
+    
+}
+
+#xdbtn{
+    background-color: rgba(98, 95, 95, 0.217);
+    color: white;
+    border-radius: 15px;
+    font-weight: 700;
+    padding: 8px;
+    border: 2px solid white;
+
+}
+#xdbtn:hover{
+            background-color: rgba(145, 145, 145, 0.653);
+            color: rgb(0, 0, 0);
+            transition: 0.5s;
+            border: 2px solid black;
+            
+}

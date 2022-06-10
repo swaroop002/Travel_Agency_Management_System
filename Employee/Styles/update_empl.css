@@ -1,0 +1,76 @@
+.col-11 {
+    border-radius: 15px;
+    border: 2px solid rgb(0, 0, 0);
+    box-shadow: white 2px 6px 12px;
+    padding: 2%;
+    margin: 1%;
+    margin-left: 5%;
+    margin-top: 2%;
+    color: rgb(255, 255, 255);
+    background-color: rgba(53, 54, 54, 0.421);
+}
+
+h3 a {
+    color: white;
+}
+
+#btn {
+
+    display: none;
+}
+
+table td #subbtn {
+    background-color: rgba(113, 108, 108, 0.217);
+    color: white;
+    border-radius: 15px;
+    font-weight: 700;
+    padding: 8px;
+    border: 2px solid white;
+}
+
+input {
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: rgba(198, 198, 198, 0.653);
+}
+
+input:hover {
+
+    border: 2px solid rgb(245, 245, 245);
+}
+
+select {
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: rgba(198, 198, 198, 0.653);
+}
+
+select:hover {
+
+    border: 2px solid rgb(245, 245, 245);
+}
+
+
+table td #subbtn:hover {
+    background-color: rgba(145, 145, 145, 0.653);
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    transition: 0.5s;
+}
+
+table td {
+    font-weight: 600;
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+    border-style: none;
+}
+
+textarea {
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: rgba(198, 198, 198, 0.653);
+}
+
+textarea:hover {
+    border: 2px solid rgb(245, 245, 245);
+}

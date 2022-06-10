@@ -1,0 +1,21 @@
+h3 a {
+    color: white;
+}
+table {
+    font-weight: 600;
+}
+table button{
+    background-color: rgba(113, 108, 108, 0.612);
+    color: white;
+    border-radius: 15px;
+    font-weight: 700;
+    padding: 5px;
+    border: 2px solid white;
+ }
+ table button:hover{
+     background-color: rgba(145, 145, 145, 0.653);
+     color: rgb(0, 0, 0);
+     border: 2px solid black;
+     transition: 0.5s;
+
+ }
