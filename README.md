@@ -13,7 +13,7 @@ The web-application is hosted on : https://petechial-basin.000webhostapp.com/Emp
 Sign Up, And Do have a look.
 
 ## **How to Deploy**
-To deploy this project on your system all you need is php v5+ Create a Database on your system using php my admin and edit the connection string in Connection.php Import the travel.sql file in your database.
+To deploy this project on your system all you need is PHP v5+ Create a Database on your system using php my admin and edit the connection string in Connection.php Import the travel.sql file in your database.
 
 ## **Report**
 Please Find The Project Report [here](https://drive.google.com/file/d/1BwOI0bkVYj-6P1i8IlTCNveq165RF6Q1/view?usp=sharing)
